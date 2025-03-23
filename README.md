@@ -1,6 +1,3 @@
-# Detox-Dial
-AI-Driven App to Combat Digital Addiction.
-
 # Detox Dial: AI-Driven App to Combat Digital Addiction
 
 An AI-powered app designed to help users "Ditch Distractions, Dominate Your Day!" by combating digital addiction and improving productivity.
